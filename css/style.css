@@ -354,7 +354,6 @@ header .container {
   color: rgba(0, 0, 0, 0.4);
 }
 
-
 .personal-infos .button {
   width: 180px;
   border-radius: 50px;
@@ -554,14 +553,15 @@ header .container {
   font-family: var(--main-font-light);
 }
 
-.latest-articles .container .cards .card .info h4 {
+.latest-articles .container .cards .card .info h3 {
   transition: var(--main-transition);
   cursor: pointer;
   font-family: var(--main-font-light);
   color: rgba(0, 0, 0, 0.8);
+  font-size: 18px;
 }
 
-.latest-articles .container .cards .card .info h4:hover {
+.latest-articles .container .cards .card .info h3:hover {
   color: var(--main-color);
   transition: var(--main-transition);
 }
