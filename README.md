@@ -32,7 +32,7 @@ To view this project locally, follow these instructions:
 
 This project was created as part of a web development course by [Gerges Samuel]. Feel free to use and modify the code for your own projects.
 
-For inquiries, please contact [josamdesign@gmail.com].
+For inquiries, please contact [gergessamuel100@gmail.com].
 
 ---
 
